@@ -1,9 +1,12 @@
 # *Face Cover And Background Blur*
 
+---
+
 # ***!!!NEW UPDATED REPO!!!***
 
 https://github.com/yourprofile/virtual-camera
 
+---
 
 ### This project provides a proof-of-concept for real-time facial anonymisation, achieved through face covering and background blurring. It is built using Python, leveraging the [face_recognition](https://github.com/ageitgey/face_recognition) library for its straightforward implementation of facial detection and landmarks, alongside opencv-python for image manipulation.
 
